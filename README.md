@@ -2,7 +2,7 @@ Hướng dẫn chơi:
 - Điều khiển:
   + Player 1: WASD để di chuyển, Space để đánh 
   + Player 2: IJKL để di chuyển, / để đánh
-Game chơi theo lượt: Player 1 đánh rồi tới player 2, rồi tiếp tục
+- Game chơi theo lượt: Player 1 đánh rồi tới player 2, rồi tiếp tục
 - Khi đến lượt của 1 người:
   + Cái lỗ sẽ ghi số của người đó
   + Người chơi có số được ghi trên lỗ phải đánh lỗ đó
