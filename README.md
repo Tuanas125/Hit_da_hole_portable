@@ -13,3 +13,5 @@ Hướng dẫn chơi:
   + Nếu 1 trong 2 điều kiện trên thỏa mãn, lỗ ghi số người nào thì người còn lại thắng
 - Một số lưu ý:
   + Bóng và lỗ sẽ tăng tốc dần trong quá trình chơi, cụ thể là mỗi khi có ai đó đập lỗ của họ
+  + Hết game có thể nhấn R để chơi lại
+  + Nhấn esc bất cứ lúc nào để thoát game
